@@ -10,7 +10,7 @@
   <img alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 </p>
 
-A full-stack, social-media-style **event creation and management platform**. Users can create events, RSVP/attend events, follow other users, chat live during events, and upload profile/event photos — all built on a **.NET 6 Web API** backend (Clean Architecture + CQRS) and a **React + TypeScript** frontend.
+A full-stack, social-media-style **event creation and management platform**. Users can create events, RSVP/attend events, follow other users, chat live during events, and upload profile/event photos — all built on a **.NET Web API** backend (Clean Architecture + CQRS) and a **React + TypeScript** frontend.
 
 > 🔗 **Live Demo:** [react-events-app.fly.dev](https://react-events-app.fly.dev/)
 
@@ -57,7 +57,7 @@ A full-stack, social-media-style **event creation and management platform**. Use
 ## 🛠 Tech Stack
 
 **Backend**
-- ASP.NET Core 6 Web API (C#)
+- ASP.NET Core Web API (C#)
 - Entity Framework Core 7 (Npgsql provider for PostgreSQL)
 - MediatR (CQRS pattern)
 - AutoMapper
@@ -172,7 +172,7 @@ Make sure the following are installed before you start:
 
 | Tool | Version | Notes |
 |---|---|---|
-| [.NET SDK](https://dotnet.microsoft.com/download) | 6.0.x | Required to build/run the API |
+| [.NET SDK](https://dotnet.microsoft.com/download) | 8.0.x | Required to build/run the API |
 | [Node.js](https://nodejs.org/) | 16.x or later | Required to run the React client |
 | [PostgreSQL](https://www.postgresql.org/download/) | 13+ | Local database, or use a hosted instance |
 | [Docker](https://www.docker.com/) *(optional)* | Latest | For containerized setup |
@@ -382,4 +382,4 @@ This project is available for personal and educational use.
 
 ---
 
-<p align="center">Made with ❤️ by AzizUllah using .NET 6, React, and TypeScript</p>
+<p align="center">Made with ❤️ by AzizUllah using .NET 8, React, and TypeScript</p>
