@@ -378,8 +378,8 @@ Contributions are welcome!
 
 ## 📄 License
 
-This project is available for personal and educational use. Add your preferred license (e.g., MIT) here if you plan to distribute it publicly.
+This project is available for personal and educational use.
 
 ---
 
-<p align="center">Made with ❤️ using .NET 6, React, and TypeScript</p>
+<p align="center">Made with ❤️ by AzizUllah using .NET 6, React, and TypeScript</p>
